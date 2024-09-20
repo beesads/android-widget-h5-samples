@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">widget-h5-kotlin</string>
+    <string name="widget_sample">Widget Sample</string>
+</resources>
